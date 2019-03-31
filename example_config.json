@@ -1,0 +1,5 @@
+{
+  "credentials": "/path/to/credentials.json",
+  "firefox bin": "/usr/bin/firefox",
+  "data path": "data"
+}
